@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "github-explorer-dc9aa",
+    "default": "github-explorer-dc9aa"
+  }
+}
